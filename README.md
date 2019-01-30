@@ -1,4 +1,4 @@
 # hello-world
-A kewl repository :3
+First repository :)
 
 Stuff stuff even more stuff!
